@@ -15,6 +15,7 @@ const Icon_btns = ({
   toolTip = "Edit",
   size = "normal",
   path = "",
+  Style=""
 }) => {
   return (
     <Tooltip title={toolTip}>
@@ -27,12 +28,12 @@ const Icon_btns = ({
 
                 color: "black",
               }
-            : {}
+            : {Style}
         }
         className="icon_btns"
         onClick={onClick === "" ? "" : onClick}
       >
-        {Icon}
+       {Icon}
       </div>
     </Tooltip>
   );

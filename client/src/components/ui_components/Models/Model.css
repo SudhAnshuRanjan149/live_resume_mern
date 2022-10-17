@@ -1,0 +1,57 @@
+.model {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+}
+.background {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-color: blue;
+  position: absolute;
+  opacity: 0.3;
+  z-index: 1;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.model_container {
+  z-index: 2;
+  position: fixed;
+  border-radius: 5px;
+}
+.modelhead {
+  background-color: aliceblue;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.modelbody {
+  background-color: rgb(220, 236, 250);
+  height: 90%;
+}
+.modalInnerBody{
+	padding: 0.5rem;
+	height: 85%;
+}
+.modelfoot {
+  background-color: aliceblue;
+  height: 15%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 0;
+}
