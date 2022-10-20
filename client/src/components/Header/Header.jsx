@@ -76,10 +76,10 @@ const Header = () => {
       />
       <div className="resume-heading-container">
         <div className="body_add_icon">
-          <Icon_btns
+          {/* <Icon_btns
             Icon={<icons.EditIcon />}
             onClick={() => setShow((prev) => !prev)}
-          />
+          /> */}
         </div>
         <div className="resume-title">{profile_data.name}</div>
 

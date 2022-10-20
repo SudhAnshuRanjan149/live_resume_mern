@@ -79,10 +79,10 @@ const Section = ({ section_data, last = false }) => {
       >
         <div className="section_title">
           <div>{section_data.title}</div>
-          <Icon_btns
+          {/* <Icon_btns
             Icon={<icons.EditIcon />}
             onClick={() => setShow((prev) => !prev)}
-          />
+          /> */}
         </div>
 
         {section_data.list.map((data, index) => (

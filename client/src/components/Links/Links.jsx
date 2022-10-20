@@ -32,7 +32,7 @@ const Links = () => {
       <div className="sidebar-title">
         LINKS
         <div>
-          <Icon_btns Icon={<icons.EditIcon />} />
+          {/* <Icon_btns Icon={<icons.EditIcon />} /> */}
         </div>
       </div>
 

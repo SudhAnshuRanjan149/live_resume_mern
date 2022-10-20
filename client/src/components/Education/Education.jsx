@@ -36,7 +36,7 @@ const Education = () => {
         <div>EDUCATION</div>
 
         <div>
-          <Icon_btns Icon={<icons.EditIcon />} />
+          {/* <Icon_btns Icon={<icons.EditIcon />} /> */}
         </div>
       </div>
 
