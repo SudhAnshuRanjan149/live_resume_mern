@@ -20,9 +20,9 @@ const self_project_data = {
       subHeading: "",
       more_info_list: ["Frontend project deployed on Netlify", "Sep-22"],
       item_details_list: [
-        "Tech Stack: React, CSS, RapidAPIs",
-        "Fully Responsive,work on all types of devices,Supports 500 req/day",
-        "Have used React reusable components strategy to develop all UI to reduce code size and have integrated search feature with Home,Channel and Videos page.",
+        "Tech Stack: React | CSS | RapidAPI",
+        "Fully responsive, work on all types of devices, supports 500 req/day.",
+        "Have used react-reusable components strategy and have integrated search feature with Home,Channel and Video page.",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/react_youtube_clone",
@@ -34,9 +34,9 @@ const self_project_data = {
       subHeading: "",
       more_info_list: ["Frontend project deployed on Netlify", "Oct-22"],
       item_details_list: [
-        "Tech Stack: React, CSS",
-        "Future goal in this project: Develop a Full stack Application where we can edit our details by login to our account and share the link with the world.",
-        "Future Technologies that will be involved: ExpressJs,NodeJS,MongoDB,JWT-Auth,BcryptJs.",
+        "Tech Stack: React | CSS",
+        "Future goal: Develop a Full stack Application where we can edit our details by login to our account and share the link to the world.",
+        "Future Technologies: ExpressJs | NodeJS | MongoDB | JWT-Auth | BcryptJs",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/live_resume_mern",
@@ -57,11 +57,11 @@ const experience_data = {
         "1Year+ Exp.",
       ],
       item_details_list: [
-        "Tech Stack : React | Redux | ExpressJs | PostgreSQL | SCSS | JMeter | DotNet Web-API",
-        "Extensively  worked on FrontEnd and Developed 3-Applications from scratch and developed many UI using React js.",
-        "Developed many react-reusable components that can be directly used inany new application that improved our developement time by 50% and reduced code size by 1/3rd.",
-        "Have also worked on few Backend Application where i have written many APIs in Express,Dotnet and and written many funtion using PL/PGSQL for our DB.",
-        "Developed an Live-Streaming-Service using React,NodeJs,Express and Apache-Kafka. Developed the whole application from scratch to serve the live data on our web-application.",
+        "Tech Stack : React | Redux | Express | PostgreSQL | SCSS | JMeter | DotNet Web-API",
+        "Extensively  worked on frontend and developed 3 Applications and many UI pages using React js.",
+        "Developed many react-reusable components that can be directly used in any new application. It has improved our developement time by 50% and reduced code size by 1/3rd.",
+        "Have also worked on few backend application , written many APIs in express,dotnet and written many DB functions using PL/PGSQL.",
+        "Developed a Live-Streaming-Service using react,express,socket.io and apache-kafka. Developed and implemented the architecture from scratch to serve the live data on our web-application.",
       ],
     },
   ],
@@ -72,11 +72,11 @@ const publication_data = {
     {
       heading: "Date Range Selector For React",
       subHeading: "",
-      more_info_list: ["React UI package published on npmjs.com", "Aug-22"],
+      more_info_list: ["React UI package available on npmjs.com", "Aug-22"],
       item_details_list: [
         "Tech Stack: React | CSS",
-        "More than 1000 downloads till date",
-        "Written from scratch, Have zero dev or prod dependencies",
+        "More than 1000 downloads till date.",
+        "Written from scratch, have zero dev and prod dependency.",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/new-React-Date-Range-Selector",
@@ -84,12 +84,12 @@ const publication_data = {
       },
     },
     {
-      heading: "A Simple Chrome theme extension",
+      heading: "A simple chrome theme extension",
       subHeading: "",
-      more_info_list: ["Published on chrome web store", "Sep-22"],
+      more_info_list: ["Available on chrome web store", "Sep-22"],
       item_details_list: [
         "Tech Stack: HTML | CSS | JavaScript",
-        "Have an beautiful UI with an analog watch with new qoutes and wallpaper on each new tab on every page refresh",
+        "Have an beautiful UI with integrated analog watch, also new qoutes and wallpaper on each new tab on every page refresh.",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/vanila_js_projects/tree/master/chrome_theme",
