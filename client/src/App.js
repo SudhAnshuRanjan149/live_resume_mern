@@ -16,31 +16,20 @@ const self_project_data = {
   title: "Projects",
   list: [
     {
-      heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
+      heading: "Youtube Clone Application",
+      subHeading: "",
+      more_info_list: ["Frontend project deployed on Netlify","Oct-22"],
       item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
+        "Tech Stack: React, CSS, RapidAPIs",
+        "Fully Responsive,work on all types of devices.",
+		"Supports 500 req/day",
+		"Have integrated search feature with Home,Channel,Videos pages."
       ],
       links: {
-        code: "https://github.com/SudhAnshuRanjan149",
-        live: "https://github.com/SudhAnshuRanjan149",
+        code: "https://github.com/SudhAnshuRanjan149/react_youtube_clone",
+        live: "https://youtube-clone-sudhanshu.netlify.app/",
       },
-    },
-    {
-      heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
-      item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
-      ],
-      links: {
-        code: "https://github.com/SudhAnshuRanjan149",
-        live: "https://github.com/SudhAnshuRanjan149",
-      },
-    },
+    }
   ],
 };
 const experience_data = {
@@ -48,51 +37,48 @@ const experience_data = {
   list: [
     {
       heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
+      subHeading: "Assitant System Engineer",
+      more_info_list: ["Full Stack Web Developer","Aug 2021-Present", "1Year+ Exp.",],
       item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
+        "Tech Stack : React | Redux | ExpressJs | PostgreSQL | SCSS | JMeter | DotNet Web-API",
+        "Extensively  worked on FrontEnd and Developed 3-Applications from scratch and developed many UI using React js.",
+		"Developed many react-reusable components that can be directly used inany new application that improved our developement time by 50% and reduced code size by 30-40%.",
+		"Have also worked on few Backend Application where i have written many APIs in Express,Dotnet and and written many funtion using PL/PGSQL for our DB.",
+		"Also worked for 2 months as an API load tester where i have written many scripts to test APIs using Jmeter.",
+		"Developed an Live-Streaming-Service using React,NodeJs,Express and Apache-Kafka. Developed the whole application from scratch to serve the live data on our web-application."
+
       ],
-    },
-    {
-      heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
-      item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
-      ],
-    },
+    }
   ],
 };
 const publication_data = {
   title: "Publications",
   list: [
     {
-      heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
+      heading: "Date Range Selector For React",
+      subHeading: "",
+      more_info_list: ["React UI package published on npmjs.com", "Aug-22"],
       item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
+        "Tech Stack: React | CSS",
+        "More than 1000 downloads till date",
+		"Written from scratch, Have zero dev or prod dependencies"
       ],
       links: {
-        code: "https://github.com/SudhAnshuRanjan149",
-        live: "https://github.com/SudhAnshuRanjan149",
+        code: "https://github.com/SudhAnshuRanjan149/new-React-Date-Range-Selector",
+        live: "https://www.npmjs.com/package/date-range-selector-for-react",
       },
     },
     {
-      heading: "TCS",
-      subHeading: "ASE trainee",
-      more_info_list: ["info1", "info2"],
+      heading: "A Simple Chrome theme extension",
+      subHeading: "",
+      more_info_list: ["Published on chrome web store", "Sep-22"],
       item_details_list: [
-        "item1 sbadjshdb jhsdbdsbd nbsdvjhsdb hsdbjhsdbsd nbhvsdfnjsbd hjsdfhsdb",
-        "item2 bvsbsdv jhbsajhsbd bjshbdsabd bvsdjhcbsd bgjshdbgsjhd vbjhsdbjsh bvsjhdgfjs bjhsgbdfjsbd bsjhbgsd.",
+        "Tech Stack: HTML | CSS | JavaScript",
+        "Have an beautiful UI with an analog watch with new qoutes and wallpaper on each new tab on every page refresh"
       ],
       links: {
-        code: "https://github.com/SudhAnshuRanjan149",
-        live: "https://github.com/SudhAnshuRanjan149",
+        code: "https://github.com/SudhAnshuRanjan149/vanila_js_projects/tree/master/chrome_theme",
+        live: "https://chrome.google.com/webstore/detail/a-simple-chrome-theme/dpniiegmilafcplcdpabdcledeofncmf?hl=en&authuser=0",
       },
     },
   ],
