@@ -39,11 +39,11 @@ const self_project_data = {
 		item_details_list: [
 		  "Tech Stack: React, CSS, RapidAPIs",
 		  "Future goal in this project: Develop a Full stack Application where we can Edit our details by login to our account and share the link with the world.",
-		  "Future Technologies that will used here: ExpressJs,NodeJS,MongoDB,JWT-Auth,BcryptJs"
+		  "Future Technologies that will be involved: ExpressJs,NodeJS,MongoDB,JWT-Auth,BcryptJs."
 		],
 		links: {
-		  code: "https://github.com/SudhAnshuRanjan149/react_youtube_clone",
-		  live: "https://youtube-clone-sudhanshu.netlify.app/",
+		  code: "https://github.com/SudhAnshuRanjan149/live_resume_mern",
+		  live: "https://sudhanshu-ranjan-resume.netlify.app/",
 		},
 	  },
   ],
