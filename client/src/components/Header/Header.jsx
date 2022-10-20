@@ -85,7 +85,7 @@ const Header = () => {
 
         <div className="contact-details">
           <div>
-            <span className="label">LinkedIn : </span>
+            <span className="label">Linked-in : </span>
             <Tooltip title="Click here to see LinkedIN profile">
               <span className="value">
                 <a href={profile_data.linkedIn.url} target="_blank">

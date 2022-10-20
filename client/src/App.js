@@ -18,7 +18,7 @@ const self_project_data = {
     {
       heading: "Youtube Clone Application",
       subHeading: "",
-      more_info_list: ["Frontend project deployed on Netlify", "Sep-22"],
+      more_info_list: ["Frontend project deployed on Netlify", "Sept-22"],
       item_details_list: [
         "Tech Stack: React | CSS | RapidAPI",
         "Fully responsive, work on all types of devices, supports 500 req/day.",
@@ -35,7 +35,7 @@ const self_project_data = {
       more_info_list: ["Frontend project deployed on Netlify", "Oct-22"],
       item_details_list: [
         "Tech Stack: React | CSS",
-        "Future goal: Develop a Full stack Application where we can edit our details by login to our account and share the link to the world.",
+        "Future goal: Develop a Full stack Application where we can edit our details by log in to our account and share the link to the world.",
         "Future Technologies: ExpressJs | NodeJS | MongoDB | JWT-Auth | BcryptJs",
       ],
       links: {
@@ -59,7 +59,7 @@ const experience_data = {
       item_details_list: [
         "Tech Stack : React | Redux | Express | PostgreSQL | SCSS | JMeter | DotNet Web-API",
         "Extensively  worked on frontend and developed 3 Applications and many UI pages using React js.",
-        "Developed many react-reusable components that can be directly used in any new application. It has improved our developement time by 50% and reduced code size by 1/3rd.",
+        "Developed many react-reusable components that can be directly used in any new application. It has improved our development time by 50% and reduced code size by 1/3rd.",
         "Have also worked on few backend application , written many APIs in express,dotnet and written many DB functions using PL/PGSQL.",
         "Developed a Live-Streaming-Service using react,express,socket.io and apache-kafka. Developed and implemented the architecture from scratch to serve the live data on our web-application.",
       ],
@@ -86,10 +86,10 @@ const publication_data = {
     {
       heading: "A simple chrome theme extension",
       subHeading: "",
-      more_info_list: ["Available on chrome web store", "Sep-22"],
+      more_info_list: ["Available on chrome web store", "Sept-22"],
       item_details_list: [
         "Tech Stack: HTML | CSS | JavaScript",
-        "Have an beautiful UI with integrated analog watch, also new qoutes and wallpaper on each new tab on every page refresh.",
+        "Have an beautiful UI with integrated analog watch, also new quotes and wallpaper on each new tab on every page refresh.",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/vanila_js_projects/tree/master/chrome_theme",
