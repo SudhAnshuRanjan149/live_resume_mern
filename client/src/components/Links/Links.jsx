@@ -17,7 +17,7 @@ const links_data = [
   {
     name: "Youtube",
     url: "https://www.youtube.com/user/SARIDHANT/videos",
-    profile_name: "Sudhanshu Ranjan",
+    profile_name: "Sudhanshu-Ranjan",
   },
   {
     name: "Github",
