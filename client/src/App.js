@@ -18,34 +18,31 @@ const self_project_data = {
     {
       heading: "Youtube Clone Application",
       subHeading: "",
-      more_info_list: ["Frontend project deployed on Netlify", "Oct-22"],
+      more_info_list: ["Frontend project deployed on Netlify", "Sep-22"],
       item_details_list: [
         "Tech Stack: React, CSS, RapidAPIs",
-        "Fully Responsive,work on all types of devices.",
-        "Supports 500 req/day",
-        "Have integrated search feature with Home,Channel and Videos page.",
-        "Have used React reusable components strategy to develop all UI to reduce code size.",
-        "Have feature to show related videos suggestions on video page.",
+        "Fully Responsive,work on all types of devices,Supports 500 req/day",
+        "Have used React reusable components strategy to develop all UI to reduce code size and have integrated search feature with Home,Channel and Videos page.",
       ],
       links: {
         code: "https://github.com/SudhAnshuRanjan149/react_youtube_clone",
         live: "https://youtube-clone-sudhanshu.netlify.app/",
       },
     },
-	{
-		heading: "Resume Application",
-		subHeading: "",
-		more_info_list: ["Frontend project deployed on Netlify", "Oct-22"],
-		item_details_list: [
-		  "Tech Stack: React, CSS, RapidAPIs",
-		  "Future goal in this project: Develop a Full stack Application where we can Edit our details by login to our account and share the link with the world.",
-		  "Future Technologies that will be involved: ExpressJs,NodeJS,MongoDB,JWT-Auth,BcryptJs."
-		],
-		links: {
-		  code: "https://github.com/SudhAnshuRanjan149/live_resume_mern",
-		  live: "https://sudhanshu-ranjan-resume.netlify.app/",
-		},
-	  },
+    {
+      heading: "Resume Application",
+      subHeading: "",
+      more_info_list: ["Frontend project deployed on Netlify", "Oct-22"],
+      item_details_list: [
+        "Tech Stack: React, CSS",
+        "Future goal in this project: Develop a Full stack Application where we can edit our details by login to our account and share the link with the world.",
+        "Future Technologies that will be involved: ExpressJs,NodeJS,MongoDB,JWT-Auth,BcryptJs.",
+      ],
+      links: {
+        code: "https://github.com/SudhAnshuRanjan149/live_resume_mern",
+        live: "https://sudhanshu-ranjan-resume.netlify.app/",
+      },
+    },
   ],
 };
 const experience_data = {
@@ -62,9 +59,8 @@ const experience_data = {
       item_details_list: [
         "Tech Stack : React | Redux | ExpressJs | PostgreSQL | SCSS | JMeter | DotNet Web-API",
         "Extensively  worked on FrontEnd and Developed 3-Applications from scratch and developed many UI using React js.",
-        "Developed many react-reusable components that can be directly used inany new application that improved our developement time by 50% and reduced code size by 30-40%.",
+        "Developed many react-reusable components that can be directly used inany new application that improved our developement time by 50% and reduced code size by 1/3rd.",
         "Have also worked on few Backend Application where i have written many APIs in Express,Dotnet and and written many funtion using PL/PGSQL for our DB.",
-        "Also worked for 2 months as an API load tester where i have written many scripts to test APIs using Jmeter.",
         "Developed an Live-Streaming-Service using React,NodeJs,Express and Apache-Kafka. Developed the whole application from scratch to serve the live data on our web-application.",
       ],
     },
@@ -116,8 +112,8 @@ function App() {
 
         <div className="resume-body">
           <div className="sidebar">
-            <Skills />
             <Education />
+            <Skills />
             <Links />
           </div>
           <div className="rest-body">
